@@ -31,14 +31,14 @@
 
 ### 📚 Django
 - 멋쟁이사자처럼 Django 실습
- * [2020.07.24](https://github.com/threegenie/django_setup)
- * [2020.08.11](https://github.com/threegenie/django_0811)
- * [2020.08.13](https://github.com/threegenie/django_0813)
- * [2020.08.18](https://github.com/threegenie/django_0818)
- * [2020.08.20](https://github.com/threegenie/django_0820)
- * [2020.08.25](https://github.com/threegenie/django_0825)
- * [2020.08.27](https://github.com/threegenie/django_0827)
- * [2020.09.10](https://github.com/threegenie/django_0910)
- * [2020.09.17](https://github.com/threegenie/django_0917)
- * [2020.08.12~2020.10.08](https://github.com/threegenie/2020-Django)
+  * [2020.07.24](https://github.com/threegenie/django_setup)
+  * [2020.08.11](https://github.com/threegenie/django_0811)
+  * [2020.08.13](https://github.com/threegenie/django_0813)
+  * [2020.08.18](https://github.com/threegenie/django_0818)
+  * [2020.08.20](https://github.com/threegenie/django_0820)
+  * [2020.08.25](https://github.com/threegenie/django_0825)
+  * [2020.08.27](https://github.com/threegenie/django_0827)
+  * [2020.09.10](https://github.com/threegenie/django_0910)
+  * [2020.09.17](https://github.com/threegenie/django_0917)
+  * [2020.08.12~2020.10.08](https://github.com/threegenie/2020-Django)
  
