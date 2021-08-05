@@ -6,6 +6,7 @@
 
 ### 📚 SQL
 - 코드스테이츠 DA 스터디 → [레포 링크](https://github.com/threegenie/SQL_study)
+- 프로그래머스 SQL 고득점 Kit 문제풀이 → [레포 링크](https://github.com/threegenie/programmers_SQL)
 
 ### 📚 ML & DL Modeling
 - 자연어 기반 기후기술분류 AI 경진대회(미완) → [레포 링크](https://github.com/threegenie/climate_classify)
