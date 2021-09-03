@@ -1,7 +1,7 @@
 # Today I learned 💙
 
 ### 📚 NLP
-- Transformer Chatbot Tutorial[레포 링크](https://github.com/threegenie/transformer_chatbot_tutorial)
+- Transformer Chatbot Tutorial → [레포 링크](https://github.com/threegenie/transformer_chatbot_tutorial)
 
 ### 📚 Tableau
 - 유튜브 강의 보고 무작정 따라해보기 → [레포 링크](https://github.com/threegenie/tableau_basic_practice)
