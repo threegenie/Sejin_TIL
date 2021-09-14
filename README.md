@@ -29,6 +29,9 @@
 ### 📚 Crawling
 - 구글 플레이스토어 어플리케이션 리뷰 크롤링 → [레포 링크](https://github.com/threegenie/appstore_review_crawling)
 
+### 📚 Process-Mining
+- 집 수리 요청 프로세스 분석 → [레포 링크](https://github.com/threegenie/house_repair_process)
+- 
 ### 📚 데이터 분석을 위한 통계
 - 코드스테이츠 Section 1 → [레포 링크](https://github.com/threegenie/AI_Section_review)
 
