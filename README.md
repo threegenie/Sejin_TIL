@@ -18,6 +18,7 @@
 - 뉴스 토픽 분류 AI 경진대회(미제출) → [레포 링크](https://github.com/threegenie/News_topic_classifying)
 - Youtube Spam Comment Detection with Flask → [레포 링크](https://github.com/threegenie/spam_detection)
 - 타이타닉 생존자 예측하기 → [레포 링크](https://github.com/threegenie/titanic_prediction)
+- PyTorch Self Study → [레포 링크](https://github.com/threegenie/studying_pytorch)
  
 ### 📚 Python
 - 한국외국어대학교 컴퓨팅사고 실습 → [레포 링크](https://github.com/threegenie/ComputationalThinking_HUFS20)
