@@ -4,6 +4,7 @@
 - Transformer Chatbot Tutorial → [레포 링크](https://github.com/threegenie/transformer_chatbot_tutorial)
 - OJT 내용 정리 → [레포 링크](https://github.com/threegenie/about_NLP)
 - Stanford CS224N → [레포 링크](https://github.com/threegenie/stanford_cs224n)
+- PORORO Tutorial → [레포 링크](https://github.com/threegenie/pororo_tutorial)
 
 ### 📚 Tableau
 - 유튜브 강의 보고 무작정 따라해보기 → [레포 링크](https://github.com/threegenie/tableau_basic_practice)
