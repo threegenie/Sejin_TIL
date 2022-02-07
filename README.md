@@ -24,6 +24,7 @@
 ### 📚 Python
 - 한국외국어대학교 컴퓨팅사고 실습 → [레포 링크](https://github.com/threegenie/ComputationalThinking_HUFS20)
 - Coursera Python Lecture → [레포 링크](https://github.com/threegenie/coursera_python)
+- 인프런 예제로 공부하는 Python 100 문제풀이 Part.3 → [레포 링크](https://github.com/threegenie/python_problem_solving)
 
 ### 📚 Algorithm
 - 프로그래머스 알고리즘 문제 해결 → [레포 링크](https://github.com/threegenie/Programmers_Algorithm)
