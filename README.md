@@ -14,7 +14,8 @@
 - 프로그래머스 SQL 고득점 Kit 문제풀이 → [레포 링크](https://github.com/threegenie/programmers_SQL)
 
 ### 📚 ML & DL Modeling
-- AI 기반 회의 녹취록 요약 경진대회→ [레포 링크](https://github.com/threegenie/dacon_meeting_summarization)
+- MLOps 공부하기(인프런 강의 듣고 정리) → [레포 링크](https://github.com/threegenie/MLOps-learning)
+- AI 기반 회의 녹취록 요약 경진대회 → [레포 링크](https://github.com/threegenie/dacon_meeting_summarization)
 - 자연어 기반 기후기술분류 AI 경진대회(미완) → [레포 링크](https://github.com/threegenie/climate_classify)
 - 뉴스 토픽 분류 AI 경진대회(미제출) → [레포 링크](https://github.com/threegenie/News_topic_classifying)
 - Youtube Spam Comment Detection with Flask → [레포 링크](https://github.com/threegenie/spam_detection)
